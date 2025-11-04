@@ -1,0 +1,6 @@
+id=MaliciousFileCleaningGuard
+name=恶意文件清理卫士
+version=v1.1.0.20251103_release
+versionCode=110
+author=HaiMing 网站:https://link3.cc/haiming
+description=开机自动清理 zygisk.apk 等木马程序，目志路径：/data/adb/modules/MalwareCleanupGuard_EnhancedVersion/module_log.md
